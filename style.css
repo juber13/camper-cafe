@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-size: 1rem;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNFhRbUpucT4dY30TaO7rNiiqehE7nF9VOqs3YeKR8&s");
+    background-size:  cover;
+    background-repeat: no-repeat;
+}
+
+h1 , h2{
+  font-weight: 1000;
+}
+
+.container{
+    width: 500px;
+    height: auto;
+    background-color: #deb887;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.header{
+    border-bottom: 3px solid #a52a2a;
+}
+
+table{
+    width: 100%;
+    text-align: left;
+    padding: 10px;
+}
+
+table tr td{
+    padding-bottom: 10px;
+}
+
+.Desserts-container{
+    border-bottom: 3px solid #a52a2a;
+
+}
